@@ -126,5 +126,5 @@ void setup() { Serial.begin(115200); pinMode(trigger, OUTPUT); pinMode(echo, INP
 
 
 # RESULT:
-Thus the distance values are updated in the Thing speak cloud using ESP32 controller.
+Thus the distance values are updated in the Thing speak cloud using ESP32 controllER.
 
