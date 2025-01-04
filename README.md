@@ -1,9 +1,6 @@
 ### NAME : NATHER NABEEL S.A.C
 ### REG NO : 24900919
-# EXP : 6
-# Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
-
-
+# EXP : 6 Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
 
 # AIM:
 
